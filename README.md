@@ -15,3 +15,5 @@ This project implements the A* search algorithm to solve a maze and find the sho
 
 ## Author
 Seeran
+## 📷 Output Screenshot
+![Output](output.png)
